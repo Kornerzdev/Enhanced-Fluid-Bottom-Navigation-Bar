@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/valisoftworks/enhanced-fluid-bottom-navigation-bar#readme",
   "dependencies": {
-    "@expo/vector-icons": ">=10.0.6"
+    "react-native-vector-icons": "^6.6.0"
   },
   "peerDependencies": {
     "prop-types": "^15.6.2",
