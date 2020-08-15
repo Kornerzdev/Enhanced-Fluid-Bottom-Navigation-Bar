@@ -16,7 +16,7 @@ import {
   Octicons,
   SimpleLineIcons,
   Zocial
-} from '@expo/vector-icons';
+} from 'react-native-vector-icons';
 
 function getIconSetFromName(name) {
   switch (name) {
